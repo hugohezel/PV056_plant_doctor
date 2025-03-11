@@ -1,0 +1,12 @@
+Data - obrazky 256x256x3
+ - Analyzovať data
+    - vizualizovať nejakým spôsobom, nájsť outlinerov
+    - treba aplikovat transformacie? ak ano aké a ako?
+ - Vytriedit do train/valid/test
+    - Vybalancovať triedy v datasete - Ako?
+Postavit model
+ - Preskúmať modely, porovnať, vybrať jeden (SVM, CNN) alebo viacero menších a použiť voting
+Report LateX
+ - Vytvoriť súbor, približný obsah, čapnúť tam čo sa tam zatiaľ dá
+
+ 
